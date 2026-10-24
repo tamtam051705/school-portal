@@ -115,4 +115,3 @@ if (!isset($_SESSION['user_image'])) {
         mysqli_stmt_close($imageStmt);
     }
 }
-?>

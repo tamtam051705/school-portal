@@ -31,5 +31,5 @@ try {
     http_response_code(500);
     exit('Database connection failed. Check the Render environment variables and Aiven database connection settings.');
 }
-?>
+
 
